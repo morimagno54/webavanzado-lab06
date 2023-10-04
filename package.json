@@ -1,0 +1,12 @@
+{
+  "name": "tecsup-2023-tarea-morimagno",
+  "version": "0.0.1",
+  "description": "tarea lab06",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev":"node index.js"
+  },
+  "author": "magno",
+  "license": "ISC"
+}
